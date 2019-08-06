@@ -49,7 +49,7 @@ export const defaultHeaderFormats = {
     long: 'dddd, LL, HH:00',
     mediumLong: 'L, HH:00',
     medium: 'HH:00',
-    short: 'HH'
+    short: 'HH:00'
   },
   minute: {
     long: 'HH:mm',
