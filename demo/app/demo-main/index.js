@@ -209,7 +209,7 @@ export default class App extends Component {
         keys={keys}
         sidebarWidth={150}
         sidebarContent={<div>Above The Left</div>}
-        canMove
+        canMove={false}
         // canResize="right"
         canSelect
         itemsSorted

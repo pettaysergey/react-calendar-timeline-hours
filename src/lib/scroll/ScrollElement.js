@@ -186,14 +186,15 @@ class ScrollElement extends Component {
         data-testid="scroll-element"
         className="rct-scroll"
         style={scrollComponentStyle}
-        onScroll={this.handleScroll}
-        onMouseDown={this.handleMouseDown}
-        onMouseMove={this.handleMouseMove}
-        onMouseUp={this.handleMouseUp}
-        onMouseLeave={this.handleMouseLeave}
-        onTouchStart={this.handleTouchStart}
-        onTouchMove={this.handleTouchMove}
-        onTouchEnd={this.handleTouchEnd}
+        // Петтай убрал скрол
+        // onScroll={this.handleScroll}
+        // onMouseDown={this.handleMouseDown}
+        // onMouseMove={this.handleMouseMove}
+        // onMouseUp={this.handleMouseUp}
+        // onMouseLeave={this.handleMouseLeave}
+        // onTouchStart={this.handleTouchStart}
+        // onTouchMove={this.handleTouchMove}
+        // onTouchEnd={this.handleTouchEnd}
       >
         {children}
       </div>
