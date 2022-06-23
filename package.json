@@ -129,7 +129,7 @@
     "jest": "^23.6.0",
     "jest-dom": "^1.12.1",
     "jest-watch-typeahead": "^0.1.0",
-    "jsdom": "^11.5.1",
+    "jsdom": "^16.5.0",
     "moment": "^2.11.1",
     "node-sass": "^4.9.2",
     "prettier": "^1.10.2",
